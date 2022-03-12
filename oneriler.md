@@ -286,6 +286,13 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 
 ÖNERİ:karışıklık
 
+
+## pipeline
+- [x] TÜBA
+- [ ] TDK
+**pipeline** kelimesinin karşılığı TÜBA'da **veri işleme hattı** olarak geçmektedir.
+
+
 ## pooling
 - [x] TÜBA
 - [ ] TDK
